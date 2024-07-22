@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there, I'm Mandeep Mishra! 👋
 
-<!--
-**Mannu258/Mannu258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Python and Django Developer with a hunger for building powerful web experiences. Currently, I'm pursuing my passion by working on an ecommerce application using Django. Let's create something amazing together!
 
-Here are some ideas to get you started:
+## About Me
+- Python and Django Developer
+- Constantly exploring new horizons in web development
+- Pushing boundaries and creating captivating applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education 📓
+- Bachelor of Computer Application from Bhupendra Narayan Mandal University (2018 - 2022)
+- Intermediate from Bihar School Examination Board (2016 - 2018)
+- High School from Bihar School Examination Board (2014 - 2016)
+
+## Skills 🚀
+- Python (Programming Language)
+- Object-Oriented Programming (OOP)
+- Django ORM
+- Django REST Framework
+- Flask
+- MySQL, SQLite
+- Version Control (Git, GitHub)
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- Docker
+- Linux
+- Deployment
+
+## Projects 🛠️
+- **OG Movers**: Comprehensive moving services with efficient loading and unloading. [Visit Site](https://www.ogmovers.com.au)
+- **My Awesomecart**: Transformed e-commerce into a user-friendly virtual marketplace. [Visit Site](https://awesomecart.pythonanywhere.com/)
+- **Data Management System**: Robust, efficient, and easy-to-use system for improved data organization. [Visit Site](https://www.dbmojopanda.com/)
+- **Chairman Muzaffarnagar Online**: A comprehensive digital platform showcasing local governance initiatives. [Visit Site](https://www.chairmanmuzaffarnagar.online/)
+
+## Connect with Me 🌐
+- Twitter: [Follow me](https://twitter.com/Mannu_258)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/mandeep-mishra-843378223/)
+- GitHub: [Check out my work](https://github.com/Mannu258)
+

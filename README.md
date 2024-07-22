@@ -30,7 +30,7 @@ I'm a passionate Python and Django Developer with a hunger for building powerful
 
 ## Projects 🛠️
 - **OG Movers**: Comprehensive moving services with efficient loading and unloading. [Visit Site](https://www.ogmovers.com.au)
-- **My Awesomecart**: Transformed e-commerce into a user-friendly virtual marketplace. [Visit Site](https://awesomecart.pythonanywhere.com/)
+- **My Awesomecart**: Transformed e-commerce into a user-friendly virtual marketplace. [Visit Site](https://myawesomecart.pythonanywhere.com/)
 - **Data Management System**: Robust, efficient, and easy-to-use system for improved data organization. [Visit Site](https://www.dbmojopanda.com/)
 - **Chairman Muzaffarnagar Online**: A comprehensive digital platform showcasing local governance initiatives. [Visit Site](https://www.chairmanmuzaffarnagar.online/)
 
